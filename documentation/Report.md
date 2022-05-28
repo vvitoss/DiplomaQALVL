@@ -14,7 +14,7 @@
 ## 4. Общие рекомендации
 - Составить качественную спецификацию к приложению
 - добавить test-id для ускорения автоматизации тестирования
-- Устранить дефекты обнаруженные на этапе тестирования - https://github.com/Berger097/QA-Diploma-1/issues
+- Устранить дефекты обнаруженные на этапе тестирования - https://github.com/vvitoss/DiplomaQALVL.git
 ## 5. AllureReport
 ![](https://github.com/Berger097/QA-Diploma-1/blob/main/documentation/AllureReport/AllureReport%209.png)
 ![](https://github.com/Berger097/QA-Diploma-1/blob/main/documentation/AllureReport/AllureReport%2010.png)
